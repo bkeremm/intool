@@ -1,7 +1,0 @@
-name = "intool"
-type = "typescript"
-
-account_id = "1cc5e35961f62cc99753f6c41679651b"
-workers_dev = true
-route = ""
-zone_id = ""
